@@ -6,74 +6,74 @@ Bu platform, *el-Hidâye* merkezli Hanefî fıkhı müzakerelerini, illet tahlil
 
 ## 🗺️ FIKIH ŞEMALARI (İLLET HARİTALARI)
 
-Klasik fıkıh metinlerinin usûlî mantığa (Hüküm -> İllet -> Fürû) göre tasnif edilmiş interaktif haritaları:
+Klasik fıkıh metinlerinin usûlî mantığa (Hüküm -> العلة -> Fürû) göre tasnif edilmiş interaktif haritaları:
 
 ### 1. Kısım: İbâdât
-* [Tahâret (Temizlik)](Taharet-Semasi)
-* [Salât (Namaz)](Salat-Semasi)
-* [Zekât](Zekat-Semasi)
-* [Savm (Oruç)](Savm-Semasi)
-* [Hac](Hac-Semasi)
+* [[Taharet-Semasi|Tahâret (Temizlik)]]
+* [[Salat-Semasi|Salât (Namaz)]]
+* [[Zekat-Semasi|Zekât]]
+* [[Savm-Semasi|Savm (Oruç)]]
+* [[Hac-Semasi|Hac]]
 
 ### 2. Kısım: Münâkahât (Aile Hukuku)
 * **Kitâbü'n-Nikâh**
-  * [İn'ikad ve Şartlar Şeması](Inikad-Semasi)
-  * [Muharremât (Evlenilmesi Haram Olanlar) Şeması](Muharremat-Semasi)
-  * [Velâyet (Velilerin Yetki ve Sıralaması) Şeması](Velayet-Semasi)
-  * [Kefâet (Denklik) Şeması](Kefaet-Semasi)
-  * [Mehir Şeması](Mehir-Semasi)
-* [Kitâbü't-Talak (Boşanma)](Talak-Semasi)
-* [Kitâbü'r-Radâ' (Süt Hısımlığı)](Rada-Semasi)
-* [Kitâbü'n-Nefakât (Nafaka Hükümleri)](Nefakat-Semasi)
+  * [[Inikad-Semasi|İn'ikad ve Şartlar Şeması]]
+  * [[Muharremat-Semasi|Muharremât (Evlenilmesi Haram Olanlar) Şeması]]
+  * [[Velayet-Semasi|Velâyet (Velilerin Yetki ve Sıralaması) Şeması]]
+  * [[Kefaet-Semasi|Kefâet (Denklik) Şeması]]
+  * [[Mehir-Semasi|Mehir Şeması]]
+* [[Talak-Semasi|Kitâbü't-Talâk (Boşanma)]]
+* [[Rada-Semasi|Kitâbü'r-Radâ' (Süt Hısımlığı)]]
+* [[Nefakat-Semasi|Kitâbü'n-Nefakât (Nafaka Hükümleri)]]
 
 ### 3. Kısım: Mu'âmelât (Borçlar ve Ticaret)
-* [Kitâbü'l-Büyû' (Alışveriş ve Akitler)](Buyu-Semasi)
-* [Kitâbü'l-İcâre (Kira ve İş)](Icare-Semasi)
-* [Kitâbü'ş-Şirket ve Mudârabe (Ortaklıklar)](Sirket-Semasi)
-* [Kitâbü'l-Vekâlet (Temsil)](Vekalet-Semasi)
-* [Kitâbü'l-Kefâlet ve Havâle (Borç Güvenceleri)](Kefalet-Semasi)
-* [Kitâbü'ş-Şüf'a (Ön Alım Hakkı)](Sufa-Semasi)
-* [Kitâbü's-Sulh ve Hibe](Sulh-Semasi)
+* [[Buyu-Semasi|Kitâbü'l-Büyû' (Alışveriş ve Akitler)]]
+* [[Icare-Semasi|Kitâbü'l-İcâre (Kira ve İş)]]
+* [[Sirket-Semasi|Kitâbü'ş-Şirket ve Mudârabe (Ortaklıklar)]]
+* [[Vekalet-Semasi|Kitâbü'l-Vekâlet (Temsil)]]
+* [[Kefalet-Semasi|Kitâbü'l-Kefâlet ve Havâle (Borç Güvenceleri)]]
+* [[Sufa-Semasi|Kitâbü'ş-Şüf'a (Ön Alım Hakkı)]]
+* [[Sulh-Semasi|Kitâbü's-Sulh ve Hibe]]
 
 ### 4. Kısım: Ukûbât ve Yargı (Ceza ve Usul Hukuku)
-* [Cinâyât ve Hudûd (Cezalar)](Cinayat-Semasi)
-* [Kitâbü'l-Kazâ (Yargı Usulü)](Kaza-Semasi)
-* [Kitâbü'ş-Şehâdât ve Da'vâ (Şahitlik ve İddia)](Sehadat-Semasi)
+* [[Cinayat-Semasi|Cinâyât ve Hudûd (Cezalar)]]
+* [[Kaza-Semasi|Kitâbü'l-Kazâ (Yargı Usulü)]]
+* [[Sehadat-Semasi|Kitâbü'ş-Şehâdât ve Da'vâ (Şahitlik ve İddia)]]
 
 ### 5. Kısım: Diğer Konular
-* [Siyer (Devletler Hukuku)](Siyer-Semasi)
-* [Kerâhiye ve İstihsân (Helaller ve Haramlar)](Kerahiye-Semasi)
-* [Ferâiz (Miras Hukuku)](Feraiz-Semasi)
+* [[Siyer-Semasi|Siyer (Devletler Hukuku)]]
+* [[Kerahiye-Semasi|Kerâhiye ve İstihsân (Helaller ve Haramlar)]]
+* [[Feraiz-Semasi|Ferâiz (Miras Hukuku)]]
 
 ---
 
 ## 📝 MAKALELER VE TAHLİLLER
 
 ### I. Fıkıh Makaleleri
-*el-Hidâye* tasnifine uygun detaylı ibare tahlilleri ve furu' meselelerin çözümleri:
+*el-Hidâye* tasnifine uygun detaylı ibare tahlilleri و furu' meselelerin çözümleri:
 
 * **1. Münâkahât Makaleleri**
   * **Nikâh Bahsi**
-    * [İn'ikad ve Lafızlar Üzerine Makaleler](Makale-Inikad)
-    * [Muharremât ve Sebepleri Üzerine Makaleler](Makale-Muharremat)
-    * [Velâyet Hakkı ve Acziyet İlleti Makaleleri](Makale-Velayet)
-    * [Kefâet (Denklik) Şartları Makaleleri](Makale-Kefaet)
-    * [Mehir Hükümleri Makaleleri](Makale-Mehir)
+    * [[Makale-Inikad|İn'ikad ve Lafızlar Üzerine Makaleler]]
+    * [[Makale-Muharremat|Muharremât ve Sebepleri Üzerine Makaleler]]
+    * [[Makale-Velayet|Velâyet Hakkı ve Acziyet İlleti Makaleleri]]
+    * [[Makale-Kefaet|Kefâet (Denklik) Şartları Makaleleri]]
+    * [[Makale-Mehir|Mehir Hükümleri Makaleleri]]
   * **Talâk Bahsi**
-    * [Talâk Türleri ve Şartları Makaleleri](Makale-Talak)
+    * [[Makale-Talak|Talâk Türleri ve Şartları Makaleleri]]
   * **Radâ' ve Nafaka**
-    * [Süt Hısımlığı ve Nafaka Hükümleri Makaleleri](Makale-Rada)
+    * [[Makale-Rada|Süt Hısımlığı ve Nafaka Hükümleri Makaleleri]]
 * **2. Mu'âmelât Makaleleri**
-  * [Alışveriş (Büyû') ve Faiz (Ribâ) Makaleleri](Makale-Buyu)
-  * [Kira, Şirket ve Kefâlet Makaleleri](Makale-Muamelat-Diger)
+  * [[Makale-Buyu|Alışveriş (Büyû') ve Faiz (Ribâ) Makaleleri]]
+  * [[Makale-Muamelat-Diger|Kira, Şirket ve Kefâlet Makaleleri]]
 * **3. İbâdât ve Ukûbât Makaleleri**
-  * [İbadetlerin İlletleri ve Ceza Hukuku Makaleleri](Makale-Ibadat)
+  * [[Makale-Ibadat|İbadetlerin İlletleri ve Ceza Hukuku Makaleleri]]
 
 ### II. Usûl ve Küllî Kaide Makaleleri
 Fıkhın temelini oluşturan usul meseleleri, illet kurguları ve Mecelle kaidelerinin tahlilleri:
-* [Usûlü'l-Fıkıh Müzakereleri](Makale-Usul)
-* [Küllî Kaidelerin Fürû'a Tatbiki](Makale-Kulli-Kaideler)
+* [[Makale-Usul|Usûlü'l-Fıkıh Müzakereleri]]
+* [[Makale-Kulli-Kaideler|Küllî Kaidelerin Fürû'a Tatbiki]]
 
 ### III. Güncel Fıkhî Meseleler (Nevâzil)
-Klasik metinlerdeki hükümlerin ve illetlerin modern çağdaki yeni meselelere (finans, tıp, teknoloji) tatbiki:
-* [Çağdaş Fıkhî Problemler ve Çözümleri](Makale-Nevazil)
+Klasik metinlerdeki hükümlerin ve illetlerin modern çağdaki yeni meselelere tatbiki:
+* [[Makale-Nevazil|Çağdaş Fıkhî Problemler ve Çözümleri]]
