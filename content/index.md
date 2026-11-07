@@ -22,7 +22,7 @@ Klasik fıkıh metinlerinin usûlî mantığa (Hüküm -> İllet -> Fürû) gör
   * [Velâyet (Velilerin Yetki ve Sıralaması) Şeması](Velayet-Semasi)
   * [Kefâet (Denklik) Şeması](Kefaet-Semasi)
   * [Mehir Şeması](Mehir-Semasi)
-* [Kitâbü't-Talâk (Boşanma)](Talak-Semasi)
+* [Kitâbü't-Talak (Boşanma)](Talak-Semasi)
 * [Kitâbü'r-Radâ' (Süt Hısımlığı)](Rada-Semasi)
 * [Kitâbü'n-Nefakât (Nafaka Hükümleri)](Nefakat-Semasi)
 
