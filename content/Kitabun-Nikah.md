@@ -24,3 +24,4 @@ flowchart TD
     click E "Kefaet" "Kefâet detaylarına git"
     click F "Mehir" "Mehir detaylarına git"
     click G "Zimmi" "Zımmî detaylarına git"
+ 
