@@ -1,3 +1,8 @@
+# Kitâbü'n-Nikâh
+
+Bu sayfa el-Hidâye merkezli nikâh bahislerinin ana haritasıdır. Alt başlıklara tıklayarak detaylı illet tahlillerine ulaşabilirsiniz.
+
+```mermaid
 flowchart TD
     %% Modern Pastel Renk Paleti
     classDef ana fill:#dce4f2,stroke:#869ab8,color:#2c3e50,stroke-width:2px
