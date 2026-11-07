@@ -2,11 +2,11 @@
 
 ```mermaid
 flowchart TD
-    classDef root fill:#1b2631,stroke:#34495e,color:#fff,stroke-width:2px,font-weight:bold
-    classDef duration fill:#117a65,stroke:#0b5345,color:#fff,stroke-width:2px,font-weight:bold
-    classDef illet fill:#2e4053,stroke:#5d6d7e,color:#fff,stroke-width:2px
-    classDef term fill:#7d3c98,stroke:#512e5f,color:#fff,stroke-width:1px,font-style:italic
-    classDef furu fill:#ebedef,stroke:#aeb6bf,color:#2c3e50,stroke-width:1px
+    classDef root fill:#d4efdf,stroke:#27ae60,color:#145a32,stroke-width:2px,font-weight:bold
+    classDef duration fill:#d6eaf8,stroke:#2980b9,color:#1b4f72,stroke-width:2px,font-weight:bold
+    classDef illet fill:#ebdef0,stroke:#8e44ad,color:#512e5f,stroke-width:2px
+    classDef term fill:#fcf3cf,stroke:#f1c40f,color:#7d6608,stroke-width:1px,font-style:italic
+    classDef furu fill:#f2f4f4,stroke:#bdd2d6,color:#2c3e50,stroke-width:1px
     classDef serh fill:#fdf2e9,stroke:#e59866,color:#873600,stroke-dasharray: 5 5
 
     R["المحرمات"]:::root
