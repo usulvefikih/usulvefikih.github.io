@@ -10,7 +10,6 @@ Klasik Hanefî fıkıh metinlerinin (özellikle el-Hidâye) illet merkezli harit
 	- **NİKAH**
 		- **KEFAET**
 			- [[KEFAET MAKALESİ]]
-			- [[KEFAET ŞEMASI]]
 		- [[Kitabun-Nikah]]
 		- [[Muharremat-Semasi]]
 	- **TALAK**
