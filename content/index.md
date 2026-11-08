@@ -8,7 +8,9 @@ Klasik Hanefî fıkıh metinlerinin (özellikle el-Hidâye) illet merkezli harit
 %% Begin Waypoint %%
 - **Munakahat**
 	- **NİKAH**
-		- [[KEFAET]]
+		- **KEFAET**
+			- [[KEFAET MAKALESİ]]
+			- [[KEFAET ŞEMASI]]
 		- [[Kitabun-Nikah]]
 		- [[Muharremat-Semasi]]
 	- **TALAK**
