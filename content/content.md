@@ -1,10 +1,10 @@
 ---
 title: Fihrist
----%% Begin Waypoint %%
+%% Begin Waypoint %%
 - **Munakahat**
+	- [[KEFAET]]
 	- [[Kitabun-Nikah]]
 	- [[Muharremat-Semasi]]
-	- [[Nikahta_Kefaet_ve_Illetleri.md]]
 - [[index]]
 
 %% End Waypoint %%
