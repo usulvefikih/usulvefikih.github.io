@@ -1,4 +1,6 @@
-%% Begin Waypoint %%
+---
+title: Fihrist
+---%% Begin Waypoint %%
 - **Munakahat**
 	- [[Kitabun-Nikah]]
 	- [[Muharremat-Semasi]]
