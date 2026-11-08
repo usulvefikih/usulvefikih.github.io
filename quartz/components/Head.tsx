@@ -104,6 +104,23 @@ export default (() => {
             return resource
           }
         })}
+<script src="https://cdn.jsdelivr.net/npm/svg-pan-zoom@3.6.1/dist/svg-pan-zoom.min.js"></script>
+<script dangerouslySetInnerHTML={{ __html: `
+  document.addEventListener("nav", () => {
+    setTimeout(() => {
+      document.querySelectorAll('.mermaid svg').forEach(svg => {
+        svgPanZoom(svg, {
+          zoomEnabled: true,
+          controlIconsEnabled: true,
+          fit: true,
+          center: true,
+          minZoom: 0.5,
+          maxZoom: 10
+        });
+      });
+    }, 800);
+  });
+`}} />
       </head>
     )
   }
